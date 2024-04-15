@@ -1,0 +1,19 @@
+{
+    "author": "Janny Dave",
+    "headline": "My wonderful Blog",
+    "keywords": ["code", "cool"],
+    "posts": [
+        {
+            "title": "Hello World",
+            "keywords": ["hello", "first"],
+            "slug": "hello-world",
+            "filename": "hello.md"
+        },
+        {
+            "tile": "The json format",
+            "keywords": ["json", "data", "js"],
+            "slug": "the-json-format",
+            "filename": "json.md"
+        }
+    ]
+}
